@@ -2,10 +2,10 @@
 
 **Membres :**
 
-Azrou Razane.
-Rashid Osama.
-Billon Martin.
-Saadoun Lirone.
+Azrou Razane
+Rashid Osama
+Billon Martin
+Saadoun Lirone
 
 **Le Projet:**
 
