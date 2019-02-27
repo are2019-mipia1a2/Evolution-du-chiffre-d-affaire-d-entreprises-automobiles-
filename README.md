@@ -1,36 +1,20 @@
-## Welcome to GitHub Pages
+#**Bienvenue chez le groupe projet EEA...lisez la suite vous comprendrez**
 
-You can use the [editor on GitHub](https://github.com/are2019-mipia1a2/Evolution-du-chiffre-d-affaire-d-entreprises-automobiles-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-bla, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Membres :**
 
-### Markdown
+Azrou Razane
+Rashid Osama
+Saadoun Lirone
+Billon Martin
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Le Projet:**
 
-```markdown
-Syntax highlighted code block
+Notre projet correspondera à la modélisation de l'évolution du chiffre d'affaire d'entreprises automobiles, comme le titre de notre répéretoire l'indique.
+Nous chercherons le moeyen d'obtenir le meilleur CA possible, en se basant sur la concurrence d'entreprises aux stratégies commerciales différentes.
+Bien évidemment, le flux des autres paramètres (clients, salariés..etc) indiquera laquelle suit la meilleure stratégie pour un CA positif à long terme.
+Nous envisagerons entre autre des scénarios, favorables ou défavorables, au bon développement des entreprises.
 
-# Header 1
-## Header 2
-### Header 3
+Le premier, que l'on envisage, correspondera à la concurrence entre deux entreprises uniquement, qui vendent deux catégories de voitures différentes par trois critères.
+On posera ainsi un score quant aux préférence des clients.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/are2019-mipia1a2/Evolution-du-chiffre-d-affaire-d-entreprises-automobiles-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Pour les autres scénarios, nous prendrons en compte plus de paramètres pour obtenir une modélisation plus réaliste.
