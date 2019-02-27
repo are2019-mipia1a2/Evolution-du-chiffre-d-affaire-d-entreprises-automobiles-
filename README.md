@@ -1,4 +1,4 @@
-# **Bienvenue chez le groupe projet EEA...lisez la suite vous comprendrez**
+**Bienvenue chez le groupe projet EEA...lisez la suite vous comprendrez**
 
 **Membres :**
 
