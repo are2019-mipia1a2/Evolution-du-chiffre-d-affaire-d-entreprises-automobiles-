@@ -21,3 +21,4 @@ Le premier, que l'on envisage, correspondera à la concurrence entre deux entrep
 On posera ainsi un score quant aux préférence des clients.
 
 Pour les autres scénarios, nous prendrons en compte plus de paramètres pour obtenir une modélisation plus réaliste.
+insert ARE.pdf
