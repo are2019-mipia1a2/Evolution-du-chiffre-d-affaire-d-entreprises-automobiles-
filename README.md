@@ -20,4 +20,4 @@ Nous envisagerons entre autre des scénarios, favorables ou défavorables, au bo
 Le premier, que l'on envisage, correspondera à la concurrence entre deux entreprises uniquement, qui vendent deux catégories de voitures différentes par trois critères.
 On posera ainsi un score quant aux préférence des clients.
 
-Pour les autres scénarios, nous prendrons en compte plus de paramètres pour obtenir une modélisation plus réaliste. bcfbcfbfb
+Pour les autres scénarios, nous prendrons en compte plus de paramètres pour obtenir une modélisation plus réaliste.
