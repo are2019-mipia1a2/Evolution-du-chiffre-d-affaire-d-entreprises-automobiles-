@@ -13,7 +13,7 @@ Saadoun Lirone
 **Le Projet:**
 
 Notre projet correspondera à la modélisation de l'évolution du chiffre d'affaire d'entreprises automobiles, comme le titre de notre répéretoire l'indique.
-Nous chercherons le moeyen d'obtenir le meilleur CA possible, en se basant sur la concurrence d'entreprises aux stratégies commerciales différentes.
+Nous chercherons le moyen d'obtenir le meilleur CA possible, en se basant sur la concurrence d'entreprises aux stratégies commerciales différentes.
 Bien évidemment, le flux des autres paramètres (clients, salariés..etc) indiquera laquelle suit la meilleure stratégie pour un CA positif à long terme.
 Nous envisagerons entre autre des scénarios, favorables ou défavorables, au bon développement des entreprises.
 
