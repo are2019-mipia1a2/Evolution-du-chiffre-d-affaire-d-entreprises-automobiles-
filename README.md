@@ -26,3 +26,10 @@ Pour les autres scénarios, nous prendrons en compte plus de paramètres pour ob
 Pour le mercredi 6 mars 2019, nous avons créé une clé github et suivi les étapes indiquées par le professeur. 
 Entre temps, nous avons discuté de notre projet, en décidant des trois critères à faire varier : la taille, consommation en carburant et le moteur (en terme de chevaux) des voitures concurrentes. Nous avons, par conséquent, cherché des statistiques sur la préférences des clients, qui ne varient que par leur âge et sexe. Puisque, nous n'avons "rien" trouvé, nous avons décidé de faire un sondage nous-même, qui sera ainsi notre source.
 Ce jour-là, un intervenant nous a aussi expliqué comment faire une bonne recherche bibliographique, qui nous sera très utile pour la suite.
+
+### Bilan 2:
+Mercredi 13/03/2019
+Nous avons mis en place le sondage,comme prévu. Et pour le moment nous avons reçu 4 réponses.
+En attendant d'obtenir plus de réponses, nous avons créé une première fonction qui permet de calculer le score de chaque entreprise. Pour cela, nous avons également fait une petite recherche sur la population selon le sexe et les tranches d'âge. 
+Ainsi, la fonction permet de comparer les deux entreprises, en terme de préférence, selon le client, pour une première génération.
+Nous l'utiliserons donc pour étendre l'estimation à plusieurs générations et en variant les voitures "construites".
