@@ -22,7 +22,7 @@ On posera ainsi un score quant aux préférence des clients.
 
 Pour les autres scénarios, nous prendrons en compte plus de paramètres pour obtenir une modélisation plus réaliste.
 
-## Bilan 1 : 
+### Bilan 1 : 
 Pour le mercredi 6 mars 2019, nous avons créé une clé github et suivi les étapes indiquées par le professeur. 
 Entre temps, nous avons discuté de notre projet, en décidant des trois critères à faire varier : la taille, consommation en carburant et le moteur (en terme de chevaux) des voitures concurrentes. Nous avons, par conséquent, cherché des statistiques sur la préférences des clients, qui ne varient que par leur âge et sexe. Puisque, nous n'avons "rien" trouvé, nous avons décidé de faire un sondage nous-même, qui sera ainsi notre source.
 Ce jour-là, un intervenant nous a aussi expliqué comment faire une bonne recherche bibliographique, qui nous sera très utile pour la suite.
