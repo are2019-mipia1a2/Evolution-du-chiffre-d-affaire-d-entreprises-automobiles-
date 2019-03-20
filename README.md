@@ -31,6 +31,7 @@ Ce jour-là, un intervenant nous a aussi expliqué comment faire une bonne reche
 
 ### Bilan 2:
 Mercredi 13/03/2019
+
 Nous avons mis en place le sondage,comme prévu. Et pour le moment nous avons reçu 4 réponses.
 En attendant d'obtenir plus de réponses, nous avons créé une première fonction qui permet de calculer le score de chaque entreprise. Pour cela, nous avons également fait une petite recherche sur la population selon le sexe et les tranches d'âge. 
 Ainsi, la fonction permet de comparer les deux entreprises, en terme de préférence, selon le client, pour une première génération.
@@ -38,6 +39,7 @@ Nous l'utiliserons donc pour étendre l'estimation à plusieurs générations et
 
 ### Bilan 3 :
 Mercredi 20/03/2019
+
 Nous avons décider de déterminer un prix de production de la voiture. Pour cela, on a fait divers recherches, sur différent sites pour avoir le prix des composantes essentielles, tel que le capot, l'alternateur...etc. A partir de ces prix, que l'on sommera, on mettra en place un prix de production de voiture, qui ne variera qu'en fonction des trois critères, déjà énumérés.
 Puis, avec ce prix de production, il en découlera un prix de vente, calculé selon le taux de marge choisi.
 Nous avons décidé, qu'au début les clients acheterons quel que soit le prix, mais avec les critères qu'ils veulent. Puis, le prix ce l'unique critère pris en compte (un budget fixe). Et enfin on regroupera les deux. 
