@@ -53,4 +53,5 @@ Nous avons commencé à prendre en compte la descendance de la population dans n
 Nous avons aussi créé une fonction qui permet de calculer le prix de vente d'une voiture, en fonction du prix des composantes, en séparant les critères variables et fixes, ainsi que la marge choisie par l'entreprise.
 Nous avons par ailleurs collecté les résultats du sondage. Nous avons décidé d'établir un coefficient entier entre 3 et 1, qui représente le classement des critères par les "clients". Ceci nous menera vers une exploitation plus pratique et simple des données. Nous remplirons ainsi le dictionnaire des "préférences" en établissant des probabilités adaptées.
 
-[résultat sondage](https://docs.google.com/forms/d/1Sh_5SUgoizMzN1lf4RKsgZkoGSi3j1MaNnMZ5AmGsvo/edit#responses)
+## Bibliographie
+[résultat sondage](sondage.pdf)
