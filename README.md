@@ -44,3 +44,13 @@ Nous avons décider de déterminer un prix de production de la voiture. Pour cel
 Puis, avec ce prix de production, il en découlera un prix de vente, calculé selon le taux de marge choisi.
 Nous avons décidé, qu'au début les clients acheteront quel que soit le prix, mais avec les critères qu'ils veulent. Enquite, le prix de vente sera l'unique critère pris en compte (un budget fixe). Et enfin on regroupera les deux. 
 On a aussi commencé à regrouper les réponses du sondage, qui s'élévent à 84, pour détérminer des statistiques de préférence et commencer à faire fonctionner la fonction "score_de_première_période" (Code de CA), qui correspond au nombre de clients potentiels pour chaque entreprise, à une première génération. (cette fonction n'est, probablement, pas tout à fait au point).
+
+
+### Bilan 4:
+Mercredi 27/03/2019
+
+Nous avons commencé à prendre en compte la descendance de la population dans nos fonctions, et donc par conséquent la démographie. Cela nous permettra de calculer le nombre de voitures vendus par l'entreprise par rapport à la population à une génération donnée. 
+Nous avons aussi créé une fonction qui permet de calculer le prix de vente d'une voiture, en fonction du prix des composantes, en séparant les critères variables et fixes, ainsi que la marge choisie par l'entreprise.
+Nous avons par ailleurs collecté les résultats du sondage. Nous avons décidé d'établir un coefficient entier entre 3 et 1, qui représente le classement des critères par les "clients". Ceci nous menera vers une exploitation plus pratique et simple des données. Nous remplirons ainsi le dictionnaire des "préférences" en établissant des probabilités adaptées.
+
+[résultat sondage](https://docs.google.com/forms/d/1Sh_5SUgoizMzN1lf4RKsgZkoGSi3j1MaNnMZ5AmGsvo/edit#responses)
