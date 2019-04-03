@@ -53,5 +53,12 @@ Nous avons commencé à prendre en compte la descendance de la population dans n
 Nous avons aussi créé une fonction qui permet de calculer le prix de vente d'une voiture, en fonction du prix des composantes, en séparant les critères variables et fixes, ainsi que la marge choisie par l'entreprise.
 Nous avons par ailleurs collecté les résultats du sondage. Nous avons décidé d'établir un coefficient entier entre 3 et 1, qui représente le classement des critères par les "clients". Ceci nous menera vers une exploitation plus pratique et simple des données. Nous remplirons ainsi le dictionnaire des "préférences" en établissant des probabilités adaptées.
 
+### Bilan 5:
+Mercredi 3/04/2019
+
+Nous avons rempli le dictionnaire des "préférence", alors nous avons pu tester la fonction score_première_période, qui présentait
+certaines incohérences; heureusement nous avons réglé le problème, en s'inspirant des fractions égyptiennes pour détérminer un coefficient de préférence, pour chaque critère, inférieur à 1 dont la somme donne 1: 1/2 pour le premier choix, 1/3 pour le second, 1/6 pour le dernier. Ainsi, on arrive à obtenir le nombre de clients (le score) potentiel pour chaque entreprise, pour un seul modèle de voiture. Pour affiner l'étude, nous avons mis en place une fonction score_n_période, qui rend la liste des clients (score) pour chaque période, au bout de laquelle la génération et la voiture changent. Celle-ci ne fonctionne toujours pas, suite à une erreur que nous ne comprenons pas. Nous travaillons donc dessus. Une fois, qu'elle sera mise en point, nous ferons varier le prix selon ces nouvelles voitures (en créant une liste pour chaque période également). Nous calculerons par conséquent le chiffre d'affaire : nombre client X prix. Il suffira alors de tracer le graph correspondant. Nous envisageons de le comparer aux courbes du score et prix.
+Par la suite nous chercherons à prendre en compte l'influence du prix, en précisons un intervalle de budget pour chaque catégorie de client. Un nouveau score devra être établi. Comparer les courbes du CA et prix sera plus intéressant à ce stade. 
+
 ## Bibliographie
 [résultat sondage](sondage.pdf)
