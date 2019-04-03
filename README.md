@@ -61,4 +61,4 @@ certaines incohérences; heureusement nous avons réglé le problème, en s'insp
 Par la suite nous chercherons à prendre en compte l'influence du prix, en précisons un intervalle de budget pour chaque catégorie de client. Un nouveau score devra être établi. Comparer les courbes du CA et prix sera plus intéressant à ce stade. 
 
 ## Bibliographie
-[résultat sondage](sondage.pdf)
+[sondage du ECAEA](sondage.pdf)
