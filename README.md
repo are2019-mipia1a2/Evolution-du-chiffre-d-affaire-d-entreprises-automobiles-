@@ -63,7 +63,18 @@ Par la suite nous chercherons à prendre en compte l'influence du prix, en préc
 ### Bilan final :
 Mercredi 10/04/2019
 
-Nous avons finaliser la fonction score_et_prix_n_periode, nous avons également décider de tracer des barres. Nous obtenons ainsi des barres du nombre de clients(score), ainsi que ceux du prix. Nous finalisons la fonction chiffre d'affaire 
+Nous avons finaliser la fonction score_et_prix_n_periode, nous avons également décider de tracer des barres. Nous obtenons ainsi des barres du nombre de clients (score), ainsi que ceux du prix. Nous finalisons la fonction chiffre d'affaire et nous allons obtenir son graph également. 
+Nous avons aussi obtenu des intervalles de budget pour chacune des catégories de client, nous allons les diviser en trois sous-intervalles, en leur fixant un coefficient, de sorte que plus le prix de la voiture est élevée, moins il y aura de clients, donc moins le score sera grand. Ainsi, il y-aura dépendance entre "préférence et prix". Nous essayons de mettre en place les fonctions correspondantes. Nous traçerons ensuite ses nouvelles fonctions sous forme de bar également.
 
 ## Bibliographie
+
 [sondage du ECAEA](sondage.pdf)
+
+#### Sites internet divers, pour le prix des composantes : 
+l'internaute, Automoto, Caradisiac, Cost-Helper, Mecathecnic, Autoservicecosts.com, idgrages.com, monmecanicien.com, goodmecano.com, Itstillruns, glassusa.com, marijouls.fr, numbeo, carmagazine. 
+
+#### Sites internet divers, pour le budget :
+csa.eu
+capital.fr
+
+
