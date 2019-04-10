@@ -60,5 +60,10 @@ Nous avons rempli le dictionnaire des "préférence", alors nous avons pu tester
 certaines incohérences; heureusement nous avons réglé le problème, en s'inspirant des fractions égyptiennes pour détérminer un coefficient de préférence, pour chaque critère, inférieur à 1 dont la somme donne 1: 1/2 pour le premier choix, 1/3 pour le second, 1/6 pour le dernier. Ainsi, on arrive à obtenir le nombre de clients (le score) potentiel pour chaque entreprise, pour un seul modèle de voiture. Pour affiner l'étude, nous avons mis en place une fonction score_n_période, qui rend la liste des clients (score) pour chaque période, au bout de laquelle la génération et la voiture changent. Celle-ci ne fonctionne toujours pas, suite à une erreur que nous ne comprenons pas. Nous travaillons donc dessus. Une fois, qu'elle sera mise en point, nous ferons varier le prix selon ces nouvelles voitures (en créant une liste pour chaque période également). Nous calculerons par conséquent le chiffre d'affaire : nombre client X prix. Il suffira alors de tracer le graph correspondant. Nous envisageons de le comparer aux courbes du score et prix.
 Par la suite nous chercherons à prendre en compte l'influence du prix, en précisons un intervalle de budget pour chaque catégorie de client. Un nouveau score devra être établi. Comparer les courbes du CA et prix sera plus intéressant à ce stade. 
 
+### Bilan final :
+Mercredi 10/04/2019
+
+Nous avons finaliser la fonction score_et_prix_n_periode, nous avons également décider de tracer des barres. Nous obtenons ainsi des barres du nombre de clients(score), ainsi que ceux du prix. Nous finalisons la fonction chiffre d'affaire 
+
 ## Bibliographie
 [sondage du ECAEA](sondage.pdf)
