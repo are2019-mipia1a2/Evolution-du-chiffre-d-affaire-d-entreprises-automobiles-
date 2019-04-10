@@ -74,7 +74,6 @@ Nous avons aussi obtenu des intervalles de budget pour chacune des catégories d
 l'internaute, Automoto, Caradisiac, Cost-Helper, Mecathecnic, Autoservicecosts.com, idgrages.com, monmecanicien.com, goodmecano.com, Itstillruns, glassusa.com, marijouls.fr, numbeo, carmagazine. 
 
 #### Sites internet divers, pour le budget :
-csa.eu \\
-capital.fr
+csa.eu et capital.fr
 
 
