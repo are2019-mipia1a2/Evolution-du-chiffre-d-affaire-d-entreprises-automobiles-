@@ -60,11 +60,21 @@ Nous avons rempli le dictionnaire des "préférence", alors nous avons pu tester
 certaines incohérences; heureusement nous avons réglé le problème, en s'inspirant des fractions égyptiennes pour détérminer un coefficient de préférence, pour chaque critère, inférieur à 1 dont la somme donne 1: 1/2 pour le premier choix, 1/3 pour le second, 1/6 pour le dernier. Ainsi, on arrive à obtenir le nombre de clients (le score) potentiel pour chaque entreprise, pour un seul modèle de voiture. Pour affiner l'étude, nous avons mis en place une fonction score_n_période, qui rend la liste des clients (score) pour chaque période, au bout de laquelle la génération et la voiture changent. Celle-ci ne fonctionne toujours pas, suite à une erreur que nous ne comprenons pas. Nous travaillons donc dessus. Une fois, qu'elle sera mise en point, nous ferons varier le prix selon ces nouvelles voitures (en créant une liste pour chaque période également). Nous calculerons par conséquent le chiffre d'affaire : nombre client X prix. Il suffira alors de tracer le graph correspondant. Nous envisageons de le comparer aux courbes du score et prix.
 Par la suite nous chercherons à prendre en compte l'influence du prix, en précisons un intervalle de budget pour chaque catégorie de client. Un nouveau score devra être établi. Comparer les courbes du CA et prix sera plus intéressant à ce stade. 
 
-#### Bilan final :
+#### Bilan 6 :
 Mercredi 10/04/2019
 
 Nous avons finaliser la fonction score_et_prix_n_periode, nous avons également décider de tracer des barres. Nous obtenons ainsi des barres du nombre de clients (score), ainsi que ceux du prix. Nous finalisons la fonction chiffre d'affaire et nous allons obtenir son graph également. 
 Nous avons aussi obtenu des intervalles de budget pour chacune des catégories de client, nous allons les diviser en trois sous-intervalles, en leur fixant un coefficient, de sorte que plus le prix de la voiture est élevée, moins il y aura de clients, donc moins le score sera grand. Ainsi, il y-aura dépendance entre "préférence et prix". Nous essayons de mettre en place les fonctions correspondantes. Nous traçerons ensuite ses nouvelles fonctions sous forme de bar également.
+
+### Bilan final :
+Mercredi 17/04/2019
+
+Aujourd'hui, nous avons "soutenu", c'est à dire présenté notre projet fini. La soutenace est jointe ci-dessous :
+[Soutenance](soutenance.pdf)
+Le projet manquait d'éléments, les questions des professeurs nous ont permis de nous en rendre compte. Nénamoins, l'experience de dynamique était fructueuse : coder ses propres idées est plutôt une première, obtenir une suite d'idées logiques et intéressantes est un défit et travailler en groupe n'est pas chose facile comme on pourrait le croire.
+Malgré que notre travaille n'est pas entièrement à la hauteur de l'intitulé de cet ARE, l'experience et l'apprentissage apportés constituent un pas important.
+
+Je remercie les participants et nos tuteurs pour leur engagements et conseils.
 
 ## Bibliographie
 
