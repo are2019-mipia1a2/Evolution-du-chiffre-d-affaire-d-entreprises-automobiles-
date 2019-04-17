@@ -80,7 +80,7 @@ Je remercie les participants et nos professeurs pour leur engagement et conseils
 
 ## Le code :
 
-[Quelle voiture construire pour gagner BEAUCOUP d'argent?](La réponse.ipynb)
+[Quelle voiture construire pour gagner BEAUCOUP d'argent?](réponse.ipynb)
 ## Bibliographie
 
 #### [Sondage du ECAEA](sondage.pdf)
