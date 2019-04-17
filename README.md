@@ -81,6 +81,11 @@ Je remercie les participants et nos professeurs pour leur engagement et conseils
 ## Le code :
 
 [La voiture à construire pour gagner BEAUCOUP d'argent?](réponse.ipynb)
+
+## Le rapport final :
+
+[rapport](rapport.pdf)
+
 ## Bibliographie
 
 #### [Sondage du ECAEA](sondage.pdf)
