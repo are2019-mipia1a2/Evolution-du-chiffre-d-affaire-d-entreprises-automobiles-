@@ -82,8 +82,6 @@ Je remercie les participants et nos professeurs pour leur engagement et conseils
 
 [La voiture à construire pour gagner BEAUCOUP d'argent?](réponse.ipynb)
 
-[rapport](rapport_ARE.pdf)
-
 ## Bibliographie
 
 #### [Sondage du ECAEA](sondage.pdf)
