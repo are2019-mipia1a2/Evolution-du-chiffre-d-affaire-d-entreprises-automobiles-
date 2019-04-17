@@ -74,7 +74,7 @@ Aujourd'hui, nous avons "soutenu", c'est à dire présenté notre projet fini. L
 Le projet manquait d'éléments, les questions des professeurs nous ont permis de nous en rendre compte. Nénamoins, l'experience de dynamique était fructueuse : coder ses propres idées est plutôt une première, obtenir une suite d'idées logiques et intéressantes est un défit et travailler en groupe n'est pas chose facile comme on pourrait le croire.
 Malgré que notre travaille n'est pas entièrement à la hauteur de l'intitulé de cet ARE, l'experience et l'apprentissage apportés constituent un pas important.
 
-Je remercie les participants et nos tuteurs pour leur engagements et conseils.
+Je remercie les participants et nos professeurs pour leur engagement et conseils.
 
 ## Bibliographie
 
